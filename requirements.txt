@@ -1,0 +1,12 @@
+torch
+torchvision
+einops
+diffusers
+transformers
+accelerate
+scipy
+wandb
+tqdm
+numpy
+streamlit
+watchdog
